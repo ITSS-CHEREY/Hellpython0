@@ -6,6 +6,8 @@
 
 👉👈𝗮𝗻𝘀𝗵𝗵𝗵________𝘄𝗿𝗼𝘁𝗲𝘀
 
+##[┽⍣𝗛𝐄𝗟𝐋 𝗞𝐈𝗡𝐆](https://t.me/HELL_ABOUT)
+
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
