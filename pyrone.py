@@ -80,7 +80,10 @@ ONE_WORDS = ["TERI", "MAA", "KI", "CHUT", "AJA", "TERI", "MAA", "KI", "CHUT", "F
            "AB", "TERI ", "MAA", "CHUDEGI", "KUTTE", "KI", "TARAH", "BETA", "TERI", "MAA", "KE", "BHOSDE",
            "ME", "JBL", "KE", "SPEAKER", "DAAL", "KAR", "BASS", "BOOSTED", "SONG", "SUNUNGA", "PURI",
            "RAAT", "LAGATAR", "TERI", "MAA", "KE", "SATH", "SEX", "KARUNGA🔥", "CHUD", "GAYA", "BACCHA", "BAAP SE",
-           "AUKAT ME", "RAHO", "WARNA", "MAA CHOD DENGE TUMARI"]
+           "AUKAT ME", "RAHO", "WARNA", "MAA CHOD DENGE TUMARI", 
+            🇹 🇦 🇦 🇷 🇪 ", "🇲 🇦 🇦 ", "🇰 🇮 ", "🇲 🇺 🇱 🇱 🇦 ", "🇹 🇦 🇦 🇷 🇪 ", "
+             🇩 🇮 🇩 🇮 "]
+            
 
 
 async def pyrone(client: Client, message: Message):
